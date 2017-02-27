@@ -89,3 +89,4 @@ if __name__ == '__main__':
     #cache=DiskCache()
     #print cache['http://example.webscraping.com/view/Afghanistan-1']
 
+ 
